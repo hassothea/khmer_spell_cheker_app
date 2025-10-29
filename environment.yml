@@ -1,0 +1,12 @@
+name: khmer_spell
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - fastapi
+  - uvicorn
+  - jinja2
+  - pip
+  - pip:
+      - khmercut
