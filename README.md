@@ -7,6 +7,7 @@ Built with **FastAPI** and a lightweight HTML frontend.
 
 ## 🗂 Project Structure
 
+`
 khmer_spell_app/
 │
 ├── venv/                      ← your virtual environment (or conda env can be here)
@@ -31,5 +32,4 @@ khmer_spell_app/
 │
 ├── requirements.txt           ← pip freeze from your venv
 ├── environment.yml            ← optional, Conda environment export
-└── README.md
-
+└── README.md`
